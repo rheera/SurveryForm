@@ -17,7 +17,6 @@
     background: rgba(0,0,0,0.5);
     border-radius: 1%;
     background-size: 200% 200%;
-    box-sizing: border-box;
     padding: 2.5rem;
 }
 
@@ -26,7 +25,6 @@
 }
 
 .forms {
-    box-sizing: border-box;
     padding: 0.25rem;
     margin: 0 auto 1.25rem auto;
     width: 100%;
